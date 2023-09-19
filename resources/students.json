@@ -1,0 +1,13 @@
+
+
+{
+  "data": {
+    "uni": "ol2251",
+    "first_name": "Ouqi",
+    "last_name": "Lin",
+    "school": "GSAS"
+  },
+  "links": [
+    {"rel": "school", "href": "/api/schools/SEAS"}
+  ]
+}
